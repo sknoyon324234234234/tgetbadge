@@ -10,3 +10,4 @@ A running log of small daily check-ins.
 - 2026-08-24: daily check-in
 - 2026-08-25: daily check-in
 - 2026-08-26: daily check-in
+- 2026-08-27: daily check-in
